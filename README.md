@@ -6,3 +6,6 @@
 - 🤔 I’m looking for help with learning more, am a mentor
 - 💬 Ask me about python programming
 - 📫 How to reach me: okpisamichael@gmail.com, @okpisajnr (twitter), 08182432855 
+
+
+<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
