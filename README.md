@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-</div>
+
 
 
 - 🔭 I’m currently working on ALX _printf project
@@ -26,3 +26,4 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=okpisajnr&show_icons=true&theme=ADD_THEME_HERE" width="400">
+</div>
