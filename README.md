@@ -8,5 +8,4 @@
 - 📫 How to reach me: okpisamichael@gmail.com, @okpisajnr (twitter), 08182432855 
 
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=okpisajnr&show_icons=true&theme=ADD_THEME_HERE" width="400">
