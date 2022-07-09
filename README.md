@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="y[our-youtube-URL](https://web.facebook.com/okpisa.michael/)">
-    <img src="https://img.shields.io/badge/facebook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="[your-twitter-URL](https://twitter.com/okpisajnr)">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
   </a>
 </div>
 </div>
