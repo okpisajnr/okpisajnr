@@ -16,8 +16,8 @@
 
 
 
-- 🔭 I’m currently working on ALX _printf project
-- 🌱 I’m currently learning Python programming at ALX
+
+- 🌱 I’m currently learning Advance Frontend Web Development at ALX
 - 👯 I’m looking to collaborate on paid or unpaid django based projects
 - 🤔 I’m looking for help with learning more from mentor
 - 💬 Ask me about python programming
